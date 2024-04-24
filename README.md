@@ -1,7 +1,13 @@
 # Trabalho de Sistemas Digitais II (UFSM00277)
 
-Prof: Everton Alceu Carara
+Universidade Federal de Santa Maria (UFSM) - 2024.1
 
-2024
+Prof Everton Alceu Carara
 
-Integrantes: Bruno Spies
+Integrantes: 
+
+•Bruno Spies
+
+•Mathias Michelotti
+
+•VInícius Schultz
