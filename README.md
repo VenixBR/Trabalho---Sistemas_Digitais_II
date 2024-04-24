@@ -5,9 +5,6 @@ Universidade Federal de Santa Maria (UFSM) - 2024.1
 Prof Everton Alceu Carara
 
 Integrantes: 
-
-•Bruno Spies
-
-•Mathias Michelotti
-
-•VInícius Schultz
+- Bruno Spies
+- Mathias Michelotti
+- VInícius Schultz
