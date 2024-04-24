@@ -1,4 +1,4 @@
-# Trabalho de Sistemas Digitais II (UFSM00277)
+# Trabalho para a Disciplina de Sistemas Digitais II (UFSM00277)
 
 Universidade Federal de Santa Maria (UFSM) - 2024.1
 
