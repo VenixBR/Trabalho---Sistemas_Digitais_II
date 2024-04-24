@@ -11,4 +11,4 @@ Integrantes:
 
 # Links
 
-Planilha com a Tabela Verdade: 
+Planilha com a Tabela Verdade: https://docs.google.com/spreadsheets/d/1kDWzbbMZgPzcG87oN8Yuku03qpRyEhLRX48VzoozcbA/edit?usp=sharing
