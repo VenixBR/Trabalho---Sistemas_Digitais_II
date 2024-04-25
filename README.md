@@ -12,3 +12,5 @@ Integrantes:
 # Links
 
 Planilha com a Tabela Verdade: https://docs.google.com/spreadsheets/d/1kDWzbbMZgPzcG87oN8Yuku03qpRyEhLRX48VzoozcbA/edit?usp=sharing
+
+Diagrama FSMD: https://www.canva.com/design/DAGDXzBn_yA/mWGFJvyVz9F9IIlJ_-k9hw/edit?utm_content=DAGDXzBn_yA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
